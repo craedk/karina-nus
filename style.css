@@ -11,3 +11,8 @@
     Tags: beauty salon, blog, business, church, coach, construction, consulting, corporate, ecommerce, multipurpose, music, portfolio, restaurant, transportation, travel, custom-header, custom-menu, editor-style, sticky-post, theme-options
     Text Domain: karina-nus-theme
 */
+
+/** Services grid **/
+.stm_services_style_9 .stm_loop__grid a {
+    height: 100%;
+}
